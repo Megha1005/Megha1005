@@ -1,5 +1,6 @@
 ### Hi there, I'm Megha Babariya👋
 
+--Attending Gracehopper Conference and WE20 :)
 I'm currently pursuing my Master's at San Francisco State University in Computer Science Department.
 
 - 🔭 Working on Software Engineering and full stack projects.
