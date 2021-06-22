@@ -4,6 +4,7 @@
 I'm currently pursuing my Master's at San Francisco State University in Computer Science Department.
 
 - 🔭 Working on Data Analysis, Software Engineering and full stack projects.
+- 🔭 Software Engineer Intern at Peloton Interactive (June 21- Aug 21)
 - 🌱 Learning to become a good Coder.
 - 🌱 Ready to learn ALWAYS !!!
 - 📫 How to reach me: https://www.linkedin.com/in/meghababariya/
